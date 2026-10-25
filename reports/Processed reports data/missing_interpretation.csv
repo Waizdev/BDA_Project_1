@@ -1,0 +1,7 @@
+column,null_pct,interpretation,action
+hashtags,34.87,LEGITIMATE BLANK — post had no hashtag,KEEP; encode as `has_hashtag` boolean in NB02
+country,5.58,TRUE MISSING — country not recorded,KEEP; exclude from country-grouped analyses only
+followers_count,3.98,TRUE MISSING — follower count not collected,KEEP; exclude from follower-based analyses only
+comments,2.04,TRUE MISSING — comments not collected (not zero!),KEEP; do NOT fill with 0
+verified,1.95,TRUE MISSING — verification status unknown,KEEP; exclude from verified-grouped analyses only
+sentiment,1.46,TRUE MISSING — post unlabelled,KEEP; exclude from sentiment-grouped analyses only

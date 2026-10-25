@@ -1,0 +1,5 @@
+,skewness,interpretation
+followers_count,6.567415329416201,highly skewed — use median
+likes,1.253440482491518,highly skewed — use median
+retweets_shares,1.5265423304165289,highly skewed — use median
+comments,1.4574744801330406,highly skewed — use median

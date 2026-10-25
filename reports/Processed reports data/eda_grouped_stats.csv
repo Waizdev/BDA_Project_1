@@ -1,0 +1,16 @@
+platform,n,median_likes,median_shares,median_comments,group_by,sentiment,day_of_week
+Tiktok,390,44.0,8.0,4.0,platform,,
+Instagram,595,37.0,6.0,3.0,platform,,
+Twitter,726,32.0,5.0,3.0,platform,,
+Facebook,370,26.0,5.0,2.0,platform,,
+Linkedin,119,20.0,3.0,2.0,platform,,
+,636,32.0,5.0,3.0,sentiment,Negative,
+,652,28.0,4.5,2.0,sentiment,Neutral,
+,879,39.0,7.0,3.0,sentiment,Positive,
+,326,32.0,,,day_of_week,,Monday
+,338,32.0,,,day_of_week,,Tuesday
+,291,33.0,,,day_of_week,,Wednesday
+,333,34.0,,,day_of_week,,Thursday
+,339,34.0,,,day_of_week,,Friday
+,306,33.0,,,day_of_week,,Saturday
+,267,34.0,,,day_of_week,,Sunday

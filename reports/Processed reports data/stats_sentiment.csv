@@ -1,0 +1,4 @@
+sentiment,n,median_likes,median_shares,median_comments
+Negative,636,32.0,5.0,3.0
+Neutral,652,28.0,4.5,2.0
+Positive,879,39.0,7.0,3.0
